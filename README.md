@@ -18,6 +18,6 @@ This paper proposes a Stroke Sensitive Character Guessing (SSCG) Model which can
 
 ## Description
 * The train/valid/test.csv contain the Chinese puzzle-answer pairs. For each row, a puzzle description corresponds to a correct answer.
-* As for the stroke.csv, it contains the word-stroke information. We encode the stroke each stroke as the number index.
+* As for the stroke.csv, it contains the word-stroke information. We encode the stroke as the number index. Different number represents different stroke.
 
 ## References
