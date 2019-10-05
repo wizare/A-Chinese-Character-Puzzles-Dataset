@@ -20,25 +20,26 @@ This paper proposes a Stroke Sensitive Character Guessing (SSCG) Model which can
 * The train/valid/test.csv contain the Chinese puzzle-answer pairs. For each row, a puzzle description corresponds to a correct answer.
 * As for the stroke.csv, it contains the word-stroke information. We encode the stroke as the number index. Different number represents different stroke.
 
+
 ## References
 
-  @InProceedings{10.1007/978-3-030-32233-5_24,
-  author="Ren, Da
-  and Cai, Yi
-  and Li, Weizhao
-  and Xia, Ruihang
-  and Li, Zilu
-  and Li, Qing",
-  editor="Tang, Jie
-  and Kan, Min-Yen
-  and Zhao, Dongyan
-  and Li, Sujian
-  and Zan, Hongying",
-  title="Solving Chinese Character Puzzles Based on Character Strokes",
-  booktitle="Natural Language Processing and Chinese Computing",
-  year="2019",
-  publisher="Springer International Publishing",
-  address="Cham",
-  pages="303--313",
-  isbn="978-3-030-32233-5"
-  }
+@InProceedings{10.1007/978-3-030-32233-5_24,
+author="Ren, Da
+and Cai, Yi
+and Li, Weizhao
+and Xia, Ruihang
+and Li, Zilu
+and Li, Qing",
+editor="Tang, Jie
+and Kan, Min-Yen
+and Zhao, Dongyan
+and Li, Sujian
+and Zan, Hongying",
+title="Solving Chinese Character Puzzles Based on Character Strokes",
+booktitle="Natural Language Processing and Chinese Computing",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="303--313",
+isbn="978-3-030-32233-5"
+}
